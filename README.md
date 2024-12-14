@@ -1,4 +1,4 @@
-Módulo de Exercício - EBAC 32
+# Módulo de Exercício - EBAC 32
 
 Este projeto faz parte do módulo 32 do curso da EBAC (Escola Britânica de Arte e Computação). O objetivo principal deste módulo foi praticar o uso do **JPA (Java Persistence API)** com **Hibernate**, conectando-se a um banco de dados PostgreSQL e manipulando dados por meio de uma aplicação Java.
 
@@ -27,3 +27,7 @@ Este projeto utiliza o Maven como ferramenta de gerenciamento de dependências. 
 - **Spring Boot**: Para facilitar a configuração do JPA e o gerenciamento da aplicação.
 - **PostgreSQL**: O banco de dados utilizado para armazenar os dados.
 - **Hibernate**: O provedor JPA utilizado para persistir as entidades no banco de dados.
+
+![Pasted image.png](Pasted%20image.png)
+
+![img.png](img.png)
